@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Web Developer !!
 
-- 🔭 I just completed my Web development using ASP.NET & C# in syllogistek
+- 🔭 I just completed my Web development using ASP.NET & C# internship in syllogistek
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m going to start my first contribution program in DevIncept
 - 🥅 All time Goal: become an osom coder :sweat_smile:
@@ -26,6 +26,10 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845196-869d1b00-d931-11eb-946f-b544e981cbdc.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845395-c106b800-d931-11eb-90e9-10a31987fe53.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847153-db419580-d933-11eb-9df1-8ef2158291bb.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850116-40e35100-d937-11eb-9ed9-7d5921d98d49.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
 <br>
 <br />
+<img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+
 
