@@ -5,7 +5,7 @@
 - 🔭 I just completed my Web development using ASP.NET & C# in syllogistek
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m going to start my first contribution program in DevIncept
-- 🥅 All time Goal: become an osom coder <code><img height="15" src="https://user-images.githubusercontent.com/70569920/123839057-52722c00-d92a-11eb-9e51-94ac4ea9ad26.jpg"></code>
+- 🥅 All time Goal: become an osom coder :sweat_smile:
 - ⚡ Fun fact: I love to dance and be crazy
 
 #### Programming Languages used:-
