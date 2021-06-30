@@ -29,6 +29,11 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
 <br>
 <br />
+## Social Links:
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/sr-sweta/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/SR_Sweta15) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/hi_craziesthere/) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/sweta.rani.545402/) 
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="80%"/>
 <br>
 <br>
@@ -69,6 +74,5 @@
   </a>
 </p>
 <br>
-## Social Links:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/sr-sweta/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/SR_Sweta15) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/hi_craziesthere/) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/sweta.rani.545402/) 
+
