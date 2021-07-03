@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Sweta 
+### Hi there 👋 , I'm Sweta Rani
 
 ## I'm a Full Stack Web Developer !!
 
