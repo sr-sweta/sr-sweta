@@ -40,37 +40,37 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <br><p>
-  <a href="https://github.com/deepraj1729/TChatBot">
+  <a href="https://github.com/sr-sweta/Building-Dictionary-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Building-Dictionary-Application&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/deepraj1729/Self-Driving-Cars">
+  <a href="https://github.com/sr-sweta/Covid-Updates">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/deepraj1729/EasyOCR">
+  <a href="https://github.com/sr-sweta/Crio-Winter-of-Doing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Crio-Winter-of-Doing&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/deepraj1729/TChatBot-API">
+  <a href="https://github.com/sr-sweta/HR-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=HR-System&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/deepraj1729/AstroML">
+  <a href="https://github.com/sr-sweta/My-Awesome-Cart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=My-Awesome-Cart&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/deepraj1729/yplate">
+  <a href="https://github.com/sr-sweta/House-price-prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=House-price-prediction&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/deepraj1729/DeepML">
+  <a href="https://github.com/sr-sweta/Covid-Updates">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/deepraj1729/MetaML">
+  <a href="https://github.com/sr-sweta/Games">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Games&show_icons=true&theme=radical" />
   </a>
 </p>
