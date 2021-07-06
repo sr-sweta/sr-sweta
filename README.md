@@ -41,37 +41,37 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <br><p>
   <a href="https://github.com/deepraj1729/TChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Building-Dictionary-Application&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Building-Dictionary-Application&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/deepraj1729/Self-Driving-Cars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/deepraj1729/EasyOCR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Crio-Winter-of-Doing&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Crio-Winter-of-Doing&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/deepraj1729/TChatBot-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=HR-System&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=HR-System&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/deepraj1729/AstroML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=My-Awesome-Cart&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=My-Awesome-Cart&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/deepraj1729/yplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=House-price-prediction&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=House-price-prediction&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/deepraj1729/DeepML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/deepraj1729/MetaML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Games&show_icons=true&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Games&show_icons=true&theme=radical" />
   </a>
 </p>
 <br>
