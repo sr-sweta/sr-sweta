@@ -30,7 +30,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
 <br>
 <br />
-## Competative Coding Platform Links:
+## Competitive Coding Platform Links:
 
 
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>
@@ -85,5 +85,5 @@
 </p>
 <br>
 
-Thank you for viewing my profile :smiley:
+<strong>Thank you for viewing my profile :smiley:</strong>
 
