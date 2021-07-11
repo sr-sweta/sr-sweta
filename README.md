@@ -33,10 +33,10 @@
 ## Competative Coding Platform Links:
 
 
-<code>[<img height="25" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>    
-<code>[<img height="25" src="https://user-images.githubusercontent.com/70569920/125207417-f0aaae00-e2a9-11eb-82b4-79ec3f2d2269.png">](https://www.interviewbit.com/profile/sr_sweta)</code>   
-<code>[<img height="25" src="https://user-images.githubusercontent.com/70569920/125207502-349db300-e2aa-11eb-87a9-5a5b6936f4a4.png">](https://leetcode.com/sr_sweta/)</code>    
-<code>[<img height="25" src="https://user-images.githubusercontent.com/70569920/125207543-7dee0280-e2aa-11eb-9ad6-a9910c06565d.png">](https://codeforces.com/profile/sr_sweta)</code>
+<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>
+<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207417-f0aaae00-e2a9-11eb-82b4-79ec3f2d2269.png">](https://www.interviewbit.com/profile/sr_sweta)</code>
+<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207502-349db300-e2aa-11eb-87a9-5a5b6936f4a4.png">](https://leetcode.com/sr_sweta/)</code> 
+<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207543-7dee0280-e2aa-11eb-9ad6-a9910c06565d.png">](https://codeforces.com/profile/sr_sweta)</code>
 <br>
 <br>
 ## Social Links:
