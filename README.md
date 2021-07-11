@@ -30,6 +30,11 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
 <br>
 <br />
+## Competative Coding Platform Links:
+
+[<img src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png" width="35" height="35"/>](https://www.codechef.com/users/swetaranisr) [<img src="https://user-images.githubusercontent.com/70569920/125207417-f0aaae00-e2a9-11eb-82b4-79ec3f2d2269.png" width="35" height="35"/>](https://www.interviewbit.com/profile/sr_sweta) [<img src="https://user-images.githubusercontent.com/70569920/125207502-349db300-e2aa-11eb-87a9-5a5b6936f4a4.png" width="35" height="35"/>](https://leetcode.com/sr_sweta/) [<img src="https://user-images.githubusercontent.com/70569920/125207543-7dee0280-e2aa-11eb-9ad6-a9910c06565d.png" width="35" height="35"/>](https://codeforces.com/profile/sr_sweta) 
+<br>
+<br>
 ## Social Links:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/sr-sweta/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/SR_Sweta15) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/hi_craziesthere/) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/sweta.rani.545402/) 
