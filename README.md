@@ -22,6 +22,7 @@
 <br>
 
 ### Web Frameworks and tools I use:-
+
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123846989-a6354300-d933-11eb-91d0-1af1effda060.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845196-869d1b00-d931-11eb-946f-b544e981cbdc.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845395-c106b800-d931-11eb-90e9-10a31987fe53.png"></code>
@@ -31,7 +32,6 @@
 <br>
 <br />
 ## Competitive Coding Platform Links:
-
 
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207417-f0aaae00-e2a9-11eb-82b4-79ec3f2d2269.png">](https://www.interviewbit.com/profile/sr_sweta)</code>
@@ -44,6 +44,11 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/sr-sweta/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/SR_Sweta15) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/hi_craziesthere/) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/sweta.rani.545402/) 
 <br>
 <br>
+
+![](https://komarev.com/ghpvc/?username=sr-sweta&label=PROFILE+VIEWS&style=flat-square&color=green)
+<br>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="80%"/>
 <br>
 <br>
