@@ -8,7 +8,7 @@
 - 🥅 All time Goal: become an osom coder :sweat_smile:
 - ⚡ Fun fact: I love to dance and be crazy
 
-#### Programming Languages used:-
+### Programming Languages used:-
 
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847212-f4e2dd00-d933-11eb-93cb-9f61cd69b6b1.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847332-1cd24080-d934-11eb-8a80-1f135dad54b4.png"></code>
@@ -21,7 +21,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/124365754-a2712b80-dc67-11eb-982a-22fef79e6bfa.png"></code>
 <br>
 
-#### Web Frameworks and tools I use:-
+### Web Frameworks and tools I use:-
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123846989-a6354300-d933-11eb-91d0-1af1effda060.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845196-869d1b00-d931-11eb-946f-b544e981cbdc.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845395-c106b800-d931-11eb-90e9-10a31987fe53.png"></code>
