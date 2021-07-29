@@ -48,9 +48,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="80%"/>
 <br>
 <br>
-
+[![Sweta's github trophy](https://github-profile-trophy.vercel.app/?username=sr-sweta&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<br>
+[![Sweta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&theme=bb2acf-08fdd8)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
   <a href="https://github.com/sr-sweta/Building-Dictionary-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Building-Dictionary-Application&show_icons=true&theme=radical" />
