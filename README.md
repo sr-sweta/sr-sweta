@@ -54,11 +54,11 @@
 <br>
 <br>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sr-sweta&row=1&theme=radial)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sr-sweta&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sr-sweta&theme=radial)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sr-sweta&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 <br>
 
