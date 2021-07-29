@@ -58,7 +58,7 @@
 <br>
 <br>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sr-sweta&theme=green-blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=red-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 <br>
 
