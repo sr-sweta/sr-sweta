@@ -101,5 +101,5 @@
 </p>
 <br>
 
-<strong>Thank you for viewing my profile :smiley:</strong> <img src="https://tenor.com/view/thank-you-thanks-homie-gif-13207754" width="50" height="50" />
+<strong>Thank you for viewing my profile :smiley:</strong>
 
