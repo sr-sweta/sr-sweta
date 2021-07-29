@@ -53,6 +53,14 @@
 
 <br>
 <br>
+
+[![HitCount](http://hits.dwyl.io/sr-sweta/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+
+<br>
+<br>
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&theme=bb2acf-ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <br>
 
 <p>
