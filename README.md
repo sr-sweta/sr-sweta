@@ -1,3 +1,4 @@
+![image](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 ### Hi there 👋 , I'm Sweta Rani
 
 ## I'm a Full Stack Web Developer !!
