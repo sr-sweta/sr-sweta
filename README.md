@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="900" height="500" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="800" height="500" />
 
-## Hi there 👋 , I'm Sweta Rani
+### Hi there 👋 , I'm Sweta Rani
 
 ## I'm a Full Stack Web Developer !!
 
@@ -101,5 +101,5 @@
 </p>
 <br>
 
-<strong>Thank you for viewing my profile :smiley:</strong>
+<strong>Thank you for viewing my profile :smiley:</strong><img src="https://tenor.com/view/thank-you-thanks-homie-gif-13207754" width="50" height="50" />
 
