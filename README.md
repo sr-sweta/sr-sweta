@@ -1,7 +1,5 @@
-![image](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![image](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif =1000x50)
 
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="drawing" style="width:100%;"/>
 ### Hi there 👋 , I'm Sweta Rani
 
 ## I'm a Full Stack Web Developer !!
