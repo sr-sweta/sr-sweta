@@ -23,7 +23,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/124365754-a2712b80-dc67-11eb-982a-22fef79e6bfa.png"></code>
 <br>
 
-### Web Frameworks and tools I use:-
+### Web Frameworks and tools used:-
 
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123846989-a6354300-d933-11eb-91d0-1af1effda060.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845196-869d1b00-d931-11eb-946f-b544e981cbdc.png"></code>
@@ -47,7 +47,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="80%"/>
 <br>
 
 <br>
