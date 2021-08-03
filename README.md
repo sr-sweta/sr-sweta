@@ -69,7 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Building-Dictionary-Application&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/sr-sweta/Covid-Updates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Case-Counter&show_icons=true&theme=radical" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@
 
 <p>
   <a href="https://github.com/sr-sweta/Covid-Updates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Updates&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Case-Counter&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/sr-sweta/Games">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Games&show_icons=true&theme=radical" />
