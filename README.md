@@ -10,6 +10,8 @@
 - 🥅 All time Goal: become an osom coder :sweat_smile:
 - ⚡ Fun fact: I love to dance and be crazy
 
+My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023bH5kIATAiYXJme4swXOHoQYyGpswk/edit?usp=sharing)
+
 ### Programming Languages used:-
 
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847212-f4e2dd00-d933-11eb-93cb-9f61cd69b6b1.png"></code>
