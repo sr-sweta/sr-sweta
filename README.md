@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" height="400" /> 
 
-## Hi there 👋 , I'm Sweta Rani
+# Hi there 👋 , I'm Sweta Rani
 -----------------------
 ## I'm a Full Stack Web Developer !!
 
