@@ -35,9 +35,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
 <br>
 <br />
-<img src="https://user-images.githubusercontent.com/70569920/129252443-01fa2ec4-95fa-43a8-a07b-08b502d6e463.png" width="300" height="300" />
-<br>
-<br>
+
 ## Competitive Coding Platform Links:
 
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>
@@ -56,8 +54,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) <img src="https://user-images.githubusercontent.com/70569920/129252443-01fa2ec4-95fa-43a8-a07b-08b502d6e463.png" width="300" height="300" />
 <br>
 <br>
 
