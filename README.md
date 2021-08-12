@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" height="400" /> 
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" height="400" />  <img src="https://user-images.githubusercontent.com/70569920/129253456-e93f574e-8345-4045-a7ca-b380b2971180.png" width="500" height="400" /> 
 
 ## Hi there 👋 , I'm Sweta Rani
 -----------------------
@@ -35,7 +35,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
 <br>
 <br />
-<img src="https://user-images.githubusercontent.com/70569920/129252443-01fa2ec4-95fa-43a8-a07b-08b502d6e463.png" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/70569920/129252443-01fa2ec4-95fa-43a8-a07b-08b502d6e463.png" width="500" height="400" />
 <br>
 <br>
 ## Competitive Coding Platform Links:
