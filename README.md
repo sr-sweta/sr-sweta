@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" height="400" /> <img src="https://user-images.githubusercontent.com/70569920/129252443-01fa2ec4-95fa-43a8-a07b-08b502d6e463.png" width="400" height="400" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" height="400" /> 
 
 ## Hi there 👋 , I'm Sweta Rani
 -----------------------
@@ -13,7 +13,7 @@
 My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023bH5kIATAiYXJme4swXOHoQYyGpswk/edit?usp=sharing)
 
 ### Programming Languages used:-
-
+-----
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847212-f4e2dd00-d933-11eb-93cb-9f61cd69b6b1.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847332-1cd24080-d934-11eb-8a80-1f135dad54b4.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847458-3c696900-d934-11eb-969d-70e933c75dc4.png"></code>
@@ -26,7 +26,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <br>
 
 ### Web Frameworks and tools used:-
-
+-----
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123846989-a6354300-d933-11eb-91d0-1af1effda060.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845196-869d1b00-d931-11eb-946f-b544e981cbdc.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845395-c106b800-d931-11eb-90e9-10a31987fe53.png"></code>
@@ -35,6 +35,9 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
 <br>
 <br />
+<img src="https://user-images.githubusercontent.com/70569920/129252443-01fa2ec4-95fa-43a8-a07b-08b502d6e463.png" width="400" height="400" />
+<br>
+<br>
 ## Competitive Coding Platform Links:
 
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>
