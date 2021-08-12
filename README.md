@@ -4,7 +4,7 @@
 -----------------------
 ## I'm a Full Stack Web Developer !!
 
-- 🔭 I just completed my Web development using ASP.NET & C# internship in syllogistek
+- 🔭 I just completed my Web development using ASP.NET & C# internship in syllogistek    <img src="https://user-images.githubusercontent.com/70569920/129252443-01fa2ec4-95fa-43a8-a07b-08b502d6e463.png" width="500" height="400" />
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m going to start my first contribution program in DevIncept
 - 🥅 All time Goal: become an osom coder :sweat_smile:
