@@ -1,12 +1,11 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" height="400" /> 
 
 # Hi there 👋 , I'm Sweta Rani
------------------------
-## I'm a Full Stack Web Developer !!
+## I'm a Backend Web Developer !!
 
-- 🔭 I just completed my Web development using ASP.NET & C# internship in syllogistek
+- 🔭 I just completed my first ever open source contribution program (Devincept)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m going to start my first contribution program in DevIncept
+- 👯 I’m going to start my contribution program in GirplScript Winter of Contributing 2021.
 - 🥅 All time Goal: become an osom coder :sweat_smile:
 - ⚡ Fun fact: I love to dance and be crazy
 
