@@ -66,8 +66,8 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <br>
 
 <p>
-  <a href="https://github.com/sr-sweta/Building-Dictionary-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Building-Dictionary-Application&show_icons=true&theme=radical" />
+  <a href="https://github.com/sr-sweta/Dictionary-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Dictionary-Application&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/sr-sweta/Covid-Updates">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Case-Counter&show_icons=true&theme=radical" />
