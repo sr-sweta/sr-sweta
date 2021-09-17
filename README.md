@@ -5,7 +5,7 @@
 
 - 🔭 I just completed my first ever open source contribution program (Devincept)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m going to start my contribution program in GirplScript Winter of Contributing 2021.
+<!-- - 👯 I’m going to start my contribution program in GirplScript Winter of Contributing 2021. -->
 - 🥅 All time Goal: become an osom coder :sweat_smile:
 - ⚡ Fun fact: I love to dance and be crazy
 
