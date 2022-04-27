@@ -40,6 +40,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207417-f0aaae00-e2a9-11eb-82b4-79ec3f2d2269.png">](https://www.interviewbit.com/profile/sr_sweta)</code>
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207502-349db300-e2aa-11eb-87a9-5a5b6936f4a4.png">](https://leetcode.com/sr_sweta/)</code> 
 <code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207543-7dee0280-e2aa-11eb-9ad6-a9910c06565d.png">](https://codeforces.com/profile/sr_sweta)</code>
+<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/165450619-67030e74-a114-4c4d-8d65-864457c1d6f0.png">](https://auth.geeksforgeeks.org/user/user_k1xn/practice/)</code>
 <br>
 <br>
 ## Social Links:
