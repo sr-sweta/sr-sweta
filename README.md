@@ -76,7 +76,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 </p>
 
 <p>
-  <a href="https://github.com/sr-sweta/Crio-Winter-of-Doing">
+  <a href="https://github.com/sr-sweta/ASP.NET-Core-Web-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Crio-Winter-of-Doing&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/sr-sweta/HR-System">
@@ -97,8 +97,8 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
   <a href="https://github.com/sr-sweta/Covid-Updates">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Case-Counter&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/sr-sweta/Games">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Games&show_icons=true&theme=radical" />
+  <a href="https://github.com/sr-sweta/Crio-Winter-of-Doing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Crio-Winter-of-Doing&show_icons=true&theme=radical" />
   </a>
 </p>
 <br>
