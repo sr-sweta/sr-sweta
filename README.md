@@ -77,7 +77,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 
 <p>
   <a href="https://github.com/sr-sweta/ASP.NET-Core-Web-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Crio-Winter-of-Doing&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=ASP.NET-Core-Web-API&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/sr-sweta/HR-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=HR-System&show_icons=true&theme=radical" />
