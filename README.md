@@ -49,7 +49,7 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <br>
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sr-sweta&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sr-sweta&color=blueviolet&style=flat)
 <br>
 <br>
 
