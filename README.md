@@ -49,6 +49,10 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <br>
 <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=sr-sweta&color=blueviolet&style=for-the-badge)
+<br>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="80%"/>
 <br>
 <br>
