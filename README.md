@@ -1,24 +1,32 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" height="400" />
 
-# Hi there 👋, I'm Sweta Rani
+<h1 align="left">
+  Hi there 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, 
+  I'm Sweta Rani
+</h1>
 
-### 🚀 Full-Stack Software Engineer | Production Systems | GenAI Enthusiast
-
-I’m a **full-stack software engineer** with hands-on experience building, scaling, and supporting **production-grade web applications**.  
-Currently working at **Capgemini**, contributing to **Warner Bros’ global Theatrical platform** deployed across multiple international markets.
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=7B68EE&width=750&lines=Full-Stack+Software+Engineer;Building+Scalable+Production+Web+Applications;Interested+in+Distributed+Systems+%26+GenAI;Angular+%7C+Node.js+%7C+MongoDB+%7C+AWS" 
+    alt="Typing SVG" 
+  />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+### 🚀 About Me
 
-- 💼 **Software Development Engineer @ Capgemini**
-- 🌍 Building and supporting applications used across **8+ global territories**
-- 🧩 Strong experience in **Angular, React, Node.js, MongoDB, AWS**
-- 🛠️ Production support experience with real-world incident ownership
-- 🤖 Using **ChatGPT & GitHub Copilot** to improve development velocity
-- 🧠 Interested in **distributed systems, scalable product architecture, and GenAI**
-- 🎯 Goal: Build impactful products with clean architecture and strong ownership
-- ⚡ Fun fact: I love dancing 💃 and exploring new tech stacks
+I’m a **full-stack software engineer** with hands-on experience building, scaling, and supporting  
+**production-grade web applications**.
+
+- 💼 Software Development Engineer @ **Capgemini**
+- 🌍 Working on **Warner Bros’ global Theatrical platform (8+ markets)**
+- 🧩 **Angular, React, Node.js, MongoDB, AWS**
+- 🔧 Strong **production support & incident ownership**
+- 🤖 Improving developer velocity using **ChatGPT & GitHub Copilot**
+- 🧠 Interested in **distributed systems & scalable product architecture**
+- ⚡ Fun fact: I love dancing 💃 and exploring new tech
 
 📄 **Resume:** [View here](https://docs.google.com/document/d/1vMoNyY48-aI023bH5kIATAiYXJme4swXOHoQYyGpswk/edit)
 
