@@ -52,43 +52,5 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 ![Profile Views](https://komarev.com/ghpvc/?username=sr-sweta&color=blueviolet&style=flat)
 <br>
 <br>
-
-<p>
-  <a href="https://github.com/sr-sweta/Dictionary-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Dictionary-Application&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/sr-sweta/Covid-Updates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Case-Counter&show_icons=true&theme=radical" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/sr-sweta/ASP.NET-Core-Web-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=ASP.NET-Core-Web-API&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/sr-sweta/HR-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=HR-System&show_icons=true&theme=radical" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/sr-sweta/My-Awesome-Cart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=My-Awesome-Cart&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/sr-sweta/House-price-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=House-price-prediction&show_icons=true&theme=radical" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/sr-sweta/Covid-Updates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Covid-Case-Counter&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/sr-sweta/Crio-Winter-of-Doing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Crio-Winter-of-Doing&show_icons=true&theme=radical" />
-  </a>
-</p>
-<br>
-
 <strong>Thank you for viewing my profile :smiley:</strong>
 
