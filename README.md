@@ -1,56 +1,92 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" height="400" /> 
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" height="400" />
 
-# Hi there 👋 , I'm Sweta Rani
-## I'm a Backend Developer !!
+# Hi there 👋, I'm Sweta Rani
 
-- 🔭 I have just graduated from **Silicon Institute of Technology, Bhubaneswar**.
-- 🌱 I’m currently learning **.net Core and MVC** concepts.
-- 🥅 All time Goal: become an excellent **coder** :sweat_smile:
-- ⚡ Fun fact: I love to dance and be crazy
-<!-- - 👯 I’m going to start my contribution program in GirplScript Winter of Contributing 2021. -->
-My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023bH5kIATAiYXJme4swXOHoQYyGpswk/edit?usp=sharing)
+### 🚀 Full-Stack Software Engineer | Production Systems | GenAI Enthusiast
 
-### Programming Languages used:-
------
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847212-f4e2dd00-d933-11eb-93cb-9f61cd69b6b1.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847332-1cd24080-d934-11eb-8a80-1f135dad54b4.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847458-3c696900-d934-11eb-969d-70e933c75dc4.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847516-49865800-d934-11eb-8c1d-a1df55375b05.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847549-560ab080-d934-11eb-9fe3-939a6ae0f428.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123839505-d0363780-d92a-11eb-97a4-9426134b340b.jpg"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123844046-2f4a7b00-d930-11eb-8e22-aaf578d8fe53.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123844597-db8c6180-d930-11eb-85b5-dcf25b916455.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/124365754-a2712b80-dc67-11eb-982a-22fef79e6bfa.png"></code>
-<br>
+I’m a **full-stack software engineer** with hands-on experience building, scaling, and supporting **production-grade web applications**.  
+Currently working at **Capgemini**, contributing to **Warner Bros’ global Theatrical platform** deployed across multiple international markets.
 
-### Web Frameworks and tools used:-
------
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123846989-a6354300-d933-11eb-91d0-1af1effda060.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845196-869d1b00-d931-11eb-946f-b544e981cbdc.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123845395-c106b800-d931-11eb-90e9-10a31987fe53.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123847153-db419580-d933-11eb-9df1-8ef2158291bb.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850116-40e35100-d937-11eb-9ed9-7d5921d98d49.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/70569920/123850217-5ce6f280-d937-11eb-91f0-07489c5ac558.png"></code>
-<br>
-<br />
+---
 
-## Competitive Coding Platform Links:
+## 👩‍💻 About Me
 
-<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>
-<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207417-f0aaae00-e2a9-11eb-82b4-79ec3f2d2269.png">](https://www.interviewbit.com/profile/sr_sweta)</code>
-<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207502-349db300-e2aa-11eb-87a9-5a5b6936f4a4.png">](https://leetcode.com/sr_sweta/)</code> 
-<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/125207543-7dee0280-e2aa-11eb-9ad6-a9910c06565d.png">](https://codeforces.com/profile/sr_sweta)</code>
-<code>[<img height="27" src="https://user-images.githubusercontent.com/70569920/165450619-67030e74-a114-4c4d-8d65-864457c1d6f0.png">](https://auth.geeksforgeeks.org/user/user_k1xn/practice/)</code>
-<br>
-<br>
-## Social Links:
+- 💼 **Software Development Engineer @ Capgemini**
+- 🌍 Building and supporting applications used across **8+ global territories**
+- 🧩 Strong experience in **Angular, React, Node.js, MongoDB, AWS**
+- 🛠️ Production support experience with real-world incident ownership
+- 🤖 Using **ChatGPT & GitHub Copilot** to improve development velocity
+- 🧠 Interested in **distributed systems, scalable product architecture, and GenAI**
+- 🎯 Goal: Build impactful products with clean architecture and strong ownership
+- ⚡ Fun fact: I love dancing 💃 and exploring new tech stacks
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/sr-sweta/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/SR_Sweta15)
-<br>
-<br>
+📄 **Resume:** [View here](https://docs.google.com/document/d/1vMoNyY48-aI023bH5kIATAiYXJme4swXOHoQYyGpswk/edit)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+
+### 🌐 Frontend
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+
+### 🔧 Backend & Databases
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+
+### ☁️ Cloud, Tools & Testing
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"></code>
+
+---
+
+## 🚧 Featured Projects
+
+### 🧠 Intellinote (In Progress)
+🔗 [Repository](https://github.com/sr-sweta/Intellinote)
+
+- AI-powered **full-stack note management system**
+- Uses **LLMs, LangChain, embeddings, and vector search**
+- Backend services for retrieval, summarization, and recommendations
+- Focus on **scalability, performance, and clean architecture**
+
+### 🏢 HR Management System
+🔗 [Repository](https://github.com/sr-sweta/HR-System)
+
+- Built a **3-tier web application** for employee data management
+- Designed backend APIs with audit tracking and role-based access
+- Improved data transparency and system reliability
+
+---
+
+## 🧠 Competitive Programming
+
+<code>[<img height="28" src="https://user-images.githubusercontent.com/70569920/125207267-e76d1180-e2a8-11eb-9c41-27d2ed984fd2.png">](https://www.codechef.com/users/swetaranisr)</code>
+<code>[<img height="28" src="https://user-images.githubusercontent.com/70569920/125207502-349db300-e2aa-11eb-87a9-5a5b6936f4a4.png">](https://leetcode.com/sr_sweta/)</code>
+<code>[<img height="28" src="https://user-images.githubusercontent.com/70569920/165450619-67030e74-a114-4c4d-8d65-864457c1d6f0.png">](https://auth.geeksforgeeks.org/user/user_k1xn/practice/)</code>
+
+---
+
+## 🌐 Connect With Me
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35"/>](https://www.linkedin.com/in/sr-sweta/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35"/>](https://twitter.com/SR_Sweta15)
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sr-sweta&color=blueviolet&style=flat)
-<br>
-<br>
-<strong>Thank you for viewing my profile :smiley:</strong>
 
+✨ **Thanks for stopping by! Feel free to explore my repositories and connect.**
