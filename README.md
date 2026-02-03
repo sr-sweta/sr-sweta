@@ -53,23 +53,6 @@ My resume you can find [here](https://docs.google.com/document/d/1vMoNyY48-aI023
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sr-sweta&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="80%"/>
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-sweta&langs_count=8&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sr-sweta&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
-<br>
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sr-sweta&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<br>
-<br>
-
 <p>
   <a href="https://github.com/sr-sweta/Dictionary-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sr-sweta&repo=Dictionary-Application&show_icons=true&theme=radical" />
