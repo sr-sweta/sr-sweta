@@ -28,8 +28,6 @@ I’m a **full-stack software engineer** with hands-on experience building, scal
 - 🧠 Interested in **distributed systems & scalable product architecture**
 - ⚡ Fun fact: I love dancing 💃 and exploring new tech
 
-📄 **Resume:** [View here](https://docs.google.com/document/d/1vMoNyY48-aI023bH5kIATAiYXJme4swXOHoQYyGpswk/edit)
-
 ---
 
 ## 🛠️ Tech Stack
